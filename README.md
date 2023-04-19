@@ -1,6 +1,6 @@
 ## REST Server Protheus
 
-Codificação em ADVPL para implementar um servidor REST usando a linguagem de programação Protheus. O servidor faz implementação de 7 rotas, que são manipuladas por funções estáticas que retornam os dados correspondentes.
+Codificação em ADVPL para implementar um servidor REST usando a linguagem de programação Protheus da TOTVS. O servidor faz implementação de 7 rotas, que são manipuladas por funções estáticas que retornam os dados correspondentes.
 
 ## Rotas
 As rotas implementadas pelo servidor são:
